@@ -34,7 +34,7 @@
 					<label class="control-label col-sm-2" for="lastnameID">LastName:</label>
 					<div class="col-sm-5">
 						<input type="text" class="form-control" name="lastname"
-							id="lastnameID" placeholder="Enter LastName1" ng-model="lastname" />
+							id="lastnameID" placeholder="Enter LastName2" ng-model="lastname" />
 					</div>
 				</div>
 				<div class="form-group">
